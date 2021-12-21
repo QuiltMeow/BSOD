@@ -1,0 +1,5 @@
+LIBRARY
+EXPORTS
+
+SHGetFolderPathA=HijackFunc_SHGetFolderPathA @1
+SHGetFolderPathW=HijackFunc_SHGetFolderPathW @2

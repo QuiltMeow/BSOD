@@ -1,0 +1,11 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.16.27034.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: shfolder.asm
+  dllmain.cpp
+     正在建立程式庫 F:\Download\Temp\shfolder\x64\Release\shfolder.lib 和物件 F:\Download\Temp\shfolder\x64\Release\shfolder.exp
+  正在產生程式碼
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  shfolder.vcxproj -> F:\Download\Temp\shfolder\x64\Release\shfolder.dll

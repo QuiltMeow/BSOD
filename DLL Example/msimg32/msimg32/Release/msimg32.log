@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\USER\source\repos\msimg32\msimg32\dllmain.cpp(81,14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+dllmain.obj : warning LNK4104: 符號 'DllInitialize' 的匯出應為 PRIVATE
+     正在建立程式庫 C:\Users\USER\source\repos\msimg32\Release\msimg32.lib 和物件 C:\Users\USER\source\repos\msimg32\Release\msimg32.exp
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  msimg32.vcxproj -> C:\Users\USER\source\repos\msimg32\Release\msimg32.dll
